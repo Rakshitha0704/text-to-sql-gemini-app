@@ -18,6 +18,4 @@ streamlit run app.py
 
 7. View the generated SQL query and query results displayed in the app.
 
-## License
 
-MIT
